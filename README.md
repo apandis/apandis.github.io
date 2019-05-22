@@ -1,2 +1,2 @@
 # ANTONIOS PANDIS 
-**INFORMATION TECHNOLOGY ENGINEER**
+**Information Technology Engineer**
