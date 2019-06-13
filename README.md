@@ -10,27 +10,33 @@ I enjoy designing, building & managing innovative, secure and efficient IT infra
 
 ### Experience
 
-**King Ocean Services** *Information Technology Engineer* __2015 to present__<br>
-	•	In charge of deploying, configuring, and managing all Windows clients and servers.
+**King Ocean Services**
 
-•	Created 24/7 employee system access by providing remote access solutions for mobile users.
+*Information Technology Engineer*
 
-•	Recommend network enhancements to improve system reliability, scalability, security, and performance.
+__2015 to present__
 
-•	Designed and implemented the use of VMware VSphere infrastructure utilizing EMC Storage systems.
 
- •	Utilize cloud solution to provide email archiving and business continuity features to protect end user data and ensure 99.99% SLA email system uptime.
+- In charge of deploying, configuring, and managing all Windows clients and servers.
 
- •	Revised IT infrastructure to provide a scalable network to support a VOIP solution and provide business growth.
+- Created 24/7 employee system access by providing remote access solutions for mobile users.
 
- •	Developed Cloud Storage infrastructure with high availability in both corporate headquarters and remote offices.
+- Recommend network enhancements to improve system reliability, scalability, security, and performance.
 
-•	Create troubleshooting documentation and help guide presentations for company employees.
+- Designed and implemented the use of VMware VSphere infrastructure utilizing EMC Storage systems.
+
+- Utilize cloud solution to provide email archiving and business continuity features to protect end user data and ensure 99.99% SLA email system uptime.
+
+- Revised IT infrastructure to provide a scalable network to support a VOIP solution and provide business growth.
+
+- Developed Cloud Storage infrastructure with high availability in both corporate headquarters and remote offices.
+
+- Create troubleshooting documentation and help guide presentations for company employees.
  
-•	Responsible for all helpdesk duties including logging support calls, resolving all end user hardware, software, and networking issues for a staff of 400 across 5 sites.
+- Responsible for all helpdesk duties including logging support calls, resolving all end user hardware, software, and networking issues for a staff of 400 across 5 sites.
 
-•	Maintain and configure Microsoft Active Directory, SQL and Exchange servers.
+- Maintain and configure Microsoft Active Directory, SQL and Exchange servers.
 
-•	Administer Mikrotik network switches for improved network performance and functionality.
+- Administer Mikrotik network switches for improved network performance and functionality.
 
-•	Tasked with securing corporate LAN, WAN leveraging Mikrotik Router Board security firewalls.
+- Tasked with securing corporate LAN, WAN leveraging Mikrotik Router Board security firewalls.
