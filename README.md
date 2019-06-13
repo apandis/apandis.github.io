@@ -1,7 +1,7 @@
 # ANTONIOS PANDIS 
 ***Information Technology Engineer***
 
-### Profile
+### About
 
 ------
 
@@ -17,7 +17,7 @@ I enjoy designing, building & managing innovative, secure and efficient IT infra
 
 *Information Technology Engineer*
 
-__2015 to present__
+__2015 to PRESENT__
 
 
 - In charge of deploying, configuring, and managing all Windows clients and servers.
@@ -43,3 +43,12 @@ __2015 to present__
 - Administer Mikrotik network switches for improved network performance and functionality.
 
 - Tasked with securing corporate LAN, WAN leveraging Mikrotik Router Board security firewalls.
+
+### Education
+
+------
+
+**Hellenic Open University**
+
+*Bachelor of Engineering - BE, Information Technology*
+
