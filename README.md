@@ -45,23 +45,22 @@ __2015 to PRESENT__
 - Tasked with securing corporate LAN, WAN leveraging Mikrotik Router Board security firewalls.
 
 
-### Education
-
-------
+Education
+=========
 
 **Hellenic Open University**
 
 *Bachelor of Engineering - BE, Information Technology*
 
 
-### Licenses & Certifications
-
-------
+Licenses & Certifications
+=========================
 
 **Cloud Computing Security**
 
 *Coursera - University of Colorado*
 
+------
 
 **Amazon Web Services Cloud Practitioner**
 
