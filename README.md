@@ -44,6 +44,7 @@ __2015 to PRESENT__
 
 - Tasked with securing corporate LAN, WAN leveraging Mikrotik Router Board security firewalls.
 
+
 ### Education
 
 ------
@@ -52,3 +53,16 @@ __2015 to PRESENT__
 
 *Bachelor of Engineering - BE, Information Technology*
 
+
+### Licenses & Certifications
+
+------
+
+**Cloud Computing Security**
+
+*Coursera - University of Colorado*
+
+
+**Amazon Web Services Cloud Practitioner**
+
+*Amazon Web Services (AWS)*
