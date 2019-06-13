@@ -1,8 +1,6 @@
 ANTONIOS PANDIS
 ===============
-***Information Technology Engineer***
-
-
+***Information Technology Engineer*** . 
 
 About
 -----
