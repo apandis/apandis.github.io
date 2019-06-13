@@ -11,9 +11,8 @@ Experience
 ----------
 
 **King Ocean Services**
-*Information Technology Engineer*
-__2015 to PRESENT__
 
+*Information Technology Engineer* - **2015 to PRESENT**
 
 - In charge of deploying, configuring, and managing all Windows clients and servers.
 
@@ -39,7 +38,6 @@ __2015 to PRESENT__
 
 - Tasked with securing corporate LAN, WAN leveraging Mikrotik Router Board security firewalls.
 
-
 Education
 ---------
 
@@ -47,9 +45,8 @@ Education
 
 *Bachelor of Engineering - BE, Information Technology*
 
-
 Licenses & Certifications
-=========================
+-------------------------
 
 **Cloud Computing Security**
 
