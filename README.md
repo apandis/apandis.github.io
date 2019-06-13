@@ -1,22 +1,17 @@
-# ANTONIOS PANDIS 
+ANTONIOS PANDIS
+===============
 ***Information Technology Engineer***
 
-### About
-
-------
-
+About
+-----
 Information Technology Enginner with over 20 years of experience providing excellent client support.
 I enjoy designing, building & managing innovative, secure and efficient IT infrastructures.
 
-
-### Experience
-
-------
+Experience
+----------
 
 **King Ocean Services**
-
 *Information Technology Engineer*
-
 __2015 to PRESENT__
 
 
