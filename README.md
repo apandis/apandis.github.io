@@ -58,7 +58,6 @@ Licenses & Certifications
 
 [Credential ID QQYMQ96TBHNU](https://www.coursera.org/account/accomplishments/verify/QQYMQ96TBHNU)
 
-------
 
 **Amazon Web Services Cloud Practitioner**
 
