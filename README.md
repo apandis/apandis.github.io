@@ -69,7 +69,9 @@ Licenses & Certifications
 Volunteer Experience
 --------------------
 
-[**Code for Miami**](https://www.meetup.com/Code-for-Miami/)
+**Code for Miami**
+
+https://www.meetup.com/Code-for-Miami
 
 Code for Miami, Inc. is a non-partisan, non-political 501c3. We believe in making Miami better through technology and design. We are a group of civic hackers working on digital solutions to make Miami more civically engaged and informed.
 
