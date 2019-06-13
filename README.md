@@ -7,6 +7,7 @@ About
 Information Technology Enginner with over 20 years of experience providing excellent client support.
 I enjoy designing, building & managing innovative, secure and efficient IT infrastructures.
 
+
 Experience
 ----------
 
@@ -38,12 +39,14 @@ Experience
 
 - Tasked with securing corporate LAN, WAN leveraging Mikrotik Router Board security firewalls.
 
+
 Education
 ---------
 
 **Hellenic Open University**
 
 *Bachelor of Engineering - BE, Information Technology*
+
 
 Licenses & Certifications
 -------------------------
@@ -59,3 +62,13 @@ Licenses & Certifications
 **Amazon Web Services Cloud Practitioner**
 
 *Amazon Web Services (AWS)*
+
+[Credential ID AWS00915599](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-05-29&ci=AWS00915599)
+
+
+Volunteer Experience
+--------------------
+
+**Code for Miami**
+
+*Data Scientist*
