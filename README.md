@@ -46,7 +46,7 @@ __2015 to PRESENT__
 
 
 Education
-=========
+---------
 
 **Hellenic Open University**
 
