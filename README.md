@@ -69,6 +69,8 @@ Licenses & Certifications
 Volunteer Experience
 --------------------
 
-**Code for Miami**
+[**Code for Miami**](https://www.meetup.com/Code-for-Miami/)
 
-*Data Scientist*
+Code for Miami, Inc. is a non-partisan, non-political 501c3. We believe in making Miami better through technology and design. We are a group of civic hackers working on digital solutions to make Miami more civically engaged and informed.
+
+[**Building IoT Flood Trackers for Miami with Miami**](https://medium.com/p/building-iot-flood-trackers-for-miami-with-miami-7186a8c7200e)
