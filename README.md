@@ -6,8 +6,8 @@ https://apandis.github.io/ | pandis.a@gmail.com | (305) 898-7212
 
 About
 -----
-Information Technology Enginner with over 20 years of experience providing excellent client support.  
-I enjoy designing, building & managing innovative, secure and efficient IT infrastructures.  
+Information Technology Engineer with over 20 years of experience designing, building & managing innovative, secure and efficient IT infrastructures. 
+I am motivated, results-focused and seeking a successful team-oriented company with the opportunity to grow.  
 
 Experience
 ----------
