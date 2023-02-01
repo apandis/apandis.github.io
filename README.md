@@ -1,78 +1,45 @@
-ANTONIOS PANDIS
+Readme
 ===============
-***Information Technology Engineer***  
 
-https://apandis.github.io/ | pandis.a@gmail.com | (305) 333-1562  
+Welcome! This is the personal developer readme of [apandis.github.io](https://apandis.github.io), a seasoned full stack JavaScript developer with over 20 years of experience in the field.
 
-About
+About Me
 -----
-Information Technology Engineer with over 20 years of experience designing, building & managing innovative, secure and efficient IT infrastructures. 
-I am motivated, results-focused and seeking a successful team-oriented company with the opportunity to grow.  
+I am a highly motivated and skilled software developer with a passion for delivering high-quality, scalable solutions. With over 20 years of experience in full stack development, I have a deep understanding of JavaScript, as well as a wide range of other technologies and tools.
 
-Experience
+Technology Stack
 ----------
 
-**King Ocean Services**
+My primary focus is on JavaScript, and I have extensive experience working with a range of JavaScript frameworks, including:
 
-*Information Technology Engineer* - **2015 to PRESENT**
+- Angular.
 
-- In charge of deploying, configuring, and managing all Windows clients and servers.
+- React.
 
-- Created 24/7 employee system access by providing remote access solutions for mobile users.
+- Vue.
 
-- Recommend network enhancements to improve system reliability, scalability, security, and performance.
+- Node.js.
 
-- Designed and implemented the use of VMware VSphere infrastructure utilizing EMC Storage systems.
+- Express.
 
-- Utilize cloud solution to provide email archiving and business continuity features to protect end user data and ensure 99.99% SLA email system uptime.
+In addition to my expertise in JavaScript, I am well-versed in other technologies and tools, including:
 
-- Revised IT infrastructure to provide a scalable network to support a VOIP solution and provide business growth.
+- HTML/CSS
 
-- Developed Cloud Storage infrastructure with high availability in both corporate headquarters and remote offices.
+- SQL.
 
-- Create troubleshooting documentation and help guide presentations for company employees.
+- NoSQL databases.
+
+- Git.
  
-- Responsible for all helpdesk duties including logging support calls, resolving all end user hardware, software, and networking issues for a staff of 400 across 5 sites.
+- Linux.
 
-- Maintain and configure Microsoft Active Directory, SQL and Exchange servers.
-
-- Administer Mikrotik network switches for improved network performance and functionality.
-
-- Tasked with securing corporate LAN, WAN leveraging Mikrotik Router Board security firewalls.
-
-
-Education
+Personal Projects & Contributions
 ---------
 
-**Hellenic Open University**
+You can find my personal projects and contributions on my Github page: [apandis.github.io](https://apandis.github.io)
 
-*Bachelor of Engineering - BE, Information Technology*
-
-
-Licenses & Certifications
+Contact Information
 -------------------------
 
-**Cloud Computing Security**
-
-*Coursera - University of Colorado*
-
-[Credential ID QQYMQ96TBHNU](https://www.coursera.org/account/accomplishments/verify/QQYMQ96TBHNU)
-
-
-**Amazon Web Services Cloud Practitioner**
-
-*Amazon Web Services (AWS)*
-
-[Credential ID AWS00915599](https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-05-29&ci=AWS00915599)
-
-
-Volunteer Experience
---------------------
-
-**Code for Miami**
-
-https://www.meetup.com/Code-for-Miami
-
-Code for Miami, Inc. is a non-partisan, non-political 501c3. We believe in making Miami better through technology and design. We are a group of civic hackers working on digital solutions to make Miami more civically engaged and informed.
-
-[**Building IoT Flood Trackers for Miami with Miami**](https://medium.com/p/building-iot-flood-trackers-for-miami-with-miami-7186a8c7200e)
+Feel free to reach out to me via email at apandis@antoniospandis.com or connect with me on [antoniospandis](https://www.linkedin.com/in/antoniospandis/). I am always open to discussing new opportunities and collaborating on exciting projects.
