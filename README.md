@@ -39,5 +39,3 @@ You can find my personal projects and contributions on my Github page: [apandis.
 ## Contact Information
 
 Feel free to reach out to me via email at [apandis@antoniospandis.com](mailto:apandis@antoniospandis.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/antoniospandis/). I am always open to discussing new opportunities and collaborating on exciting projects.
-
-...
